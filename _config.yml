@@ -13,23 +13,22 @@ baseurl: ""
 lang: en
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone:
+timezone: America/California
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: nickrov # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: My collection of things that I think is cool # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
-
+An outlet for me to go on about things that I'm passionate about
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ""
+url: "https:// nickr0v.github.io"
 
 github:
-  username: github_username # change to your github username
+  username: nickr0v # change to your github username
 
 twitter:
   username: twitter_username # change to your twitter username
@@ -76,7 +75,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://i.pinimg.com/originals/e8/9d/b1/e89db1b7ef17284c452bea536651ecd5.jpg
 
 # boolean type, the global switch for TOC in posts.
 toc: true
